@@ -1,0 +1,10 @@
+.form-control{
+	width: 90%;
+	padding-left: 12px;
+}
+.form-group{
+	padding-left: 1%;
+}
+body{
+	background-color: #ADD8E6;
+}
